@@ -1,8 +1,8 @@
-[
-    {
+[{
         "name": "你不知道的 HTML",
         "link": "/html.html"
-    }, {
+    },
+    {
         "name": "Javascript 核心技巧",
         "link": "/javascript.html"
     },
@@ -11,8 +11,8 @@
         "link": "/css.html"
     },
     {
-        "name": "PWA",
-        "link": "/javascript.html"
+        "name": "Javascript 与 QA 测试",
+        "link": "/qa.html"
     },
     {
         "name": "安全与性能",

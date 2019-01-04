@@ -4,4 +4,10 @@
 }, {
     "name": "jQuery 技术内幕",
     "link": "/javascript/2018_8_17.html"
+}, {
+    "name": "函数式编程基础",
+    "link": "/javascript/2018_8_22_1.html"
+}, {
+    "name": "函数式编程进阶",
+    "link": "/javascript/2018_8_22_2.html"
 }]
