@@ -17,7 +17,7 @@ title: howieyi
 email: huyi247767221@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   个人学习纪要
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: howieyi
 github_username:  howieyi
