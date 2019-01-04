@@ -30,8 +30,9 @@ plugins:
 
 assets: assets
 
-collections:
-  - yd-study
+collections: 
+  - html
+  - javascript
   
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

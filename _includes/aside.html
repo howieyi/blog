@@ -1,5 +1,17 @@
-<ul>
+<style>
+    .aside-menus li {
+        /* list-style: none; */
+        font-size: 16px;
+        padding: 8px 0;
+    }
+</style>
+
+<ul class="aside-menus">
+    {% for menu in site.data.menus %}
     <li>
-        <a href="{{site.baseurl}}/yd-study">一灯学习纪要</a>
+        <a href="{{ site.baseurl }}{{ menu.link }}">
+            {{ menu.name }}
+        </a>
     </li>
+    {% endfor %}
 </ul>
