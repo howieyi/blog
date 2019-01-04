@@ -2,7 +2,18 @@
 layout: default
 title: howeiyi 个人纪要
 ---
-{% include header.html %}
-{{ content }}
-{% include footer.html %}
+<link rel="stylesheet" href="/assets/css/print.css">
+<link rel="stylesheet" href="/assets/css/style.css">
 
+{% include header.html %}
+<div id="content-wrapper">
+    <div class="inner clearfix">
+        <section class="main-content">
+            {{ content }}
+        </section>
+        <aside id="sidebar">
+            {% include aside.html %}
+        </aside>
+    </div>
+</div>
+{% include footer.html %}
