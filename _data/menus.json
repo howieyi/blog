@@ -15,12 +15,16 @@
         "link": "/nodejs.html"
     },
     {
-        "name": "HTTP 协议的那些事",
-        "link": "/http.html"
+        "name": "前端性能优化",
+        "link": "/performance.html"
     },
     {
-        "name": "nginx",
-        "link": "/javascript.html"
+        "name": "前端工程化",
+        "link": "/project.html"
+    },
+    {
+        "name": "HTTP 协议的那些事",
+        "link": "/http.html"
     },
     {
         "name": "Javascript 与 QA 测试",
