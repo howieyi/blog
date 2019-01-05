@@ -1,4 +1,7 @@
 [{
+        "name": "Google AMP",
+        "link": "/performance/2018_10_19.html"
+    }, {
         "name": "Timeline 掌控帧渲染模式",
         "link": "/performance/2018_10_20.html"
     }, {
