@@ -29,5 +29,9 @@
     {
         "name": "Javascript 与 QA 测试",
         "link": "/qa.html"
+    },
+    {
+        "name": "Linux 日常",
+        "link": "/linux.html"
     }
 ]

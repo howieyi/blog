@@ -1,0 +1,31 @@
+[{
+    "name": "修改文件带 @ 符号权限",
+    "link": "/linux/2018_11_12.html"
+}, {
+    "name": "shell 脚本 function",
+    "link": "/linux/2018_3_9.html"
+}, {
+    "name": "nginx 常用配置",
+    "link": "/linux/2018_3_14.html"
+}, {
+    "name": "firewall 添加端口",
+    "link": "/linux/2018_11_10.html"
+}, {
+    "name": "ssh keygen 生成",
+    "link": "/linux/2018_11_9.html"
+}, {
+    "name": "修改 hostname",
+    "link": "/linux/2018_3_29.html"
+}, {
+    "name": "Ubuntu 虚拟机无法打开锁文件",
+    "link": "/linux/2018_1_23.html"
+}, {
+    "name": "mysql 忘记密码",
+    "link": "/linux/2018_3_25.html"
+}, {
+    "name": "mysql 安装",
+    "link": "/linux/2018_3_5.html"
+}, {
+    "name": "mac 修改 root 密码",
+    "link": "/linux/2018_11_13.html"
+}]
