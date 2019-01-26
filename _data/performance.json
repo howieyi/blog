@@ -1,4 +1,10 @@
 [{
+        "name": "高性能JavaScript - 数据存取",
+        "link": "/performance/2019_01_26_2.html"
+    }, {
+        "name": "高性能JavaScript - 加载与执行",
+        "link": "/performance/2019_01_26.html"
+    }, {
         "name": "Google AMP",
         "link": "/performance/2018_10_19.html"
     }, {
